@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Sobre la pàgina
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Una zona per guardar els resums. 
